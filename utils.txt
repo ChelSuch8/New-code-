@@ -1,0 +1,5 @@
+TO return the file in to an early stage
+To Unstage
+git reset utils.txt
+
+(git checkout utils.txt) to undo the changes..
